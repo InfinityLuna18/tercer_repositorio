@@ -1,3 +1,12 @@
 # tercer_repositorio
+una modificación con un commit
+segunda modificación con un comit
 
-Siempre realicemos comentarios en nuestros proyectos.
+Recursión:
+
+En términos de programación, una función recursiva se puede
+definir como una rutina que se llama a sí misma directa o
+indirectamente.
+
+Siempre realicemos comentarios en nuestros proyectos, ciando sean
+necesarios.
